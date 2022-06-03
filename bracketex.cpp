@@ -10,7 +10,7 @@ bool is_a_pair(char a, char b){
     else return false;
 }
 
-void bracket_validator(int len, string sequence) {
+void bracket_validator(int len, string sequence){
 
     string close="}])";
     string v="Valid";

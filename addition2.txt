@@ -1,0 +1,3 @@
+Visit the website ( https://codebreaker.xyz/problem/addition2 ) on mobile/mobile emulator
+Alternatively, use toggle device toolbar (try ctrl+shift+m) under inspect element (2nd button from top left)
+Click to "submit code" and just submit, the code is already there for you!!

@@ -15,7 +15,7 @@ int main(){
     for (int i=0; i<n; i++){
         for (int j=0; j<g[i].size(); j++){
             if (j==0)	cout << g[i][j];
-            else 		cout << ' ' << g[i][j];
+            else 		cout << " " << g[i][j];
         }
         cout << "\n";
     }
